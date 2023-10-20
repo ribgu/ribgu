@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
+
+```javascript
+var welcome = {
+    name: "Gustavo Ribeiro",
+    yo: 18,
+    nacionality: "Brazilian",
+    formation: {
+        institution: "São Paulo Tech School - SPTech",
+        course: "Software Analysis and Development",
+        period: "Second Half (2/4)"
+    },
+    technologies: [Javascript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET],
+    tools: [NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
+    career: {
+        company: "Indigo Hive",
+        role: "Full-Stack Developer"
+    },
+    skills: [Project Management, Systems Analysis, Agile Methodologies]
+};
+```
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribgu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
