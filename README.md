@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! I'm Gustavo Ribeiro
 
 ```javascript
 var welcome = {
@@ -20,20 +20,20 @@ var welcome = {
 };
 ```
 
-
+# 📊 GITHUB STATS
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribgu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribgu&layout=compact&langs_count=16&theme=radical"/>
-<!--
-**ribgu/ribgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💼 Career
+🏢 I'm currently working at Indigo Hive as a Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 My Skills
+Languages: JavaScript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET.
+Tools: NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma.
+
+# 📚 Education
+🎓 Studying Software Analysis and Development at São Paulo Tech School - SPTech (2nd Half).
+
+# 🌐 Connect with Me
+📧 Email: gurib2005@gmail.com
+LinkedIn: https://www.linkedin.com/in/gustavo-alcantara-ribeiro/
