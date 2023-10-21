@@ -25,7 +25,7 @@ var welcome = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribgu&layout=compact&langs_count=16&theme=transparent"/>
 </div
 
-    
+
 # 💼 Career
 🏢 I'm currently working at Indigo Hive as a Full-Stack Developer.
 
