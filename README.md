@@ -1,4 +1,4 @@
-# Hi there! I'm Gustavo Ribeiro
+# Hello, World! I'm Gustavo Ribeiro
 
 ```javascript
 var welcome = {
@@ -26,12 +26,12 @@ var welcome = {
 </div
 
 
-# 💼 Career
-🏢 I'm currently working at Indigo Hive as a Full-Stack Developer.
-
 # 🚀 My Skills
 Languages: JavaScript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET.
 Tools: NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma.
+
+# 💼 Career
+🏢 I'm currently working at Indigo Hive as a Full-Stack Developer.
 
 # 📚 Education
 🎓 Studying Software Analysis and Development at São Paulo Tech School - SPTech (2nd Half).
