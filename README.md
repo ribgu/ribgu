@@ -1,20 +1,20 @@
 # Hello, World! I'm Gustavo Ribeiro
 
 ```javascript
-var welcome = {
+const welcome = {
     name: "Gustavo Ribeiro",
     yo: 19,
     nacionality: "Brazilian",
     formation: {
         institution: "São Paulo Tech School - SPTech",
         course: "Software Analysis and Development",
-        period: "Second Half (2/4)"
+        period: "4/4"
     },
     technologies: [Javascript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET],
     tools: [NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
     career: {
         company: "Indigo Hive",
-        role: "Full-Stack Developer"
+        role: "Junior Software Engineer"
     },
     skills: [Project Management, Systems Analysis, Agile Methodologies]
 };
