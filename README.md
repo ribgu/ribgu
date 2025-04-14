@@ -7,8 +7,7 @@ const welcome = {
     nacionality: "Brazilian",
     formation: {
         institution: "São Paulo Tech School - SPTech",
-        course: "Software Analysis and Development",
-        period: "4/4"
+        course: "Software Analysis and Development"
     },
     technologies: [Javascript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET],
     tools: [NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
