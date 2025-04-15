@@ -10,7 +10,7 @@ const welcome = {
         course: "Software Analysis and Development"
     },
     technologies: [Javascript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET],
-    tools: [NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
+    tools: [NextJS, NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
     career: {
         company: "Indigo Hive",
         role: "Junior Software Engineer"
