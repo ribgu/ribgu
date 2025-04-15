@@ -1,40 +1,37 @@
-# Hello, World! I'm Gustavo Ribeiro
+# 👋 Hello, World! I'm Gustavo Ribeiro
 
-```javascript
-const welcome = {
-    name: "Gustavo Ribeiro",
-    yo: 19,
-    nacionality: "Brazilian",
-    formation: {
-        institution: "São Paulo Tech School - SPTech",
-        course: "Software Analysis and Development"
-    },
-    technologies: [Javascript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET],
-    tools: [NextJS, NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma],
-    career: {
-        company: "Indigo Hive",
-        role: "Junior Software Engineer"
-    },
-    skills: [Project Management, Systems Analysis, Agile Methodologies]
-};
-```
+I'm a **Software Engineer** passionate about **Artificial Intelligence**, **Software Development**, and **Entrepreneurship**. I leverage technology to build innovative solutions and enjoy turning ideas into impactful products.
 
-# 📊 GITHUB STATS
+## 👨‍💻 About Me
+
+- 🎓 Graduated in **Software Analysis and Development** from **São Paulo Tech School - SPTech**.
+- 📚 Currently pursuing a postgraduate degree in **Data Science and Artificial Intelligence**.
+- 🚀 Junior Software Engineer at **Indigo Hive**, focusing on full-stack development and AI-driven applications.
+
+## 💻 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css,react,nextjs,nodejs,dotnet,postgres,mysql,docker,prisma,aws&perline=8" />
+  </a>
+</p>
+
+**Additional Skills:**
+- Project Management, Systems Analysis, Agile Methodologies
+
+## 🧠 Areas of Interest
+
+- 🤖 **Artificial Intelligence and Machine Learning**: Building intelligent systems and enhancing user experiences through AI.
+- 🌟 **Entrepreneurship**: Passionate about creating startups and turning innovative ideas into reality.
+- 💡 **Innovative Development**: Always seeking to adopt new technologies to create efficient and impactful software solutions.
+
+## 📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribgu&layout=compact&langs_count=16&theme=transparent"/>
-</div
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribgu&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribgu&layout=compact&langs_count=16&theme=transparent"/>
+</div>
 
+## 🌐 Connect with Me
 
-# 🚀 My Skills
-Languages: JavaScript, TypeScript, Java, ReactJS, HTML, CSS, C#, ASP.NET Core, .NET.
-Tools: NodeJS, MySQL Workbench, PostgreSQL, Docker, Prisma.
-
-# 💼 Career
-🏢 I'm currently working at Indigo Hive as a Full-Stack Developer.
-
-# 📚 Education
-🎓 Studying Software Analysis and Development at São Paulo Tech School - SPTech (2nd Half).
-
-# 🌐 Connect with Me
-📧 Email: gurib2005@gmail.com
-LinkedIn: https://www.linkedin.com/in/gustavo-alcantara-ribeiro/
+- 📧 Email: [gurib2005@gmail.com](mailto:gurib2005@gmail.com)
+- 💼 LinkedIn: [Gustavo Ribeiro](https://www.linkedin.com/in/gustavo-alcantara-ribeiro/)
