@@ -6,7 +6,7 @@ I'm a **Software Engineer** passionate about **Artificial Intelligence**, **Soft
 
 - 🎓 Graduated in **Software Analysis and Development** from [São Paulo Tech School - SPTech](https://www.sptech.school/).
 - 📚 Currently pursuing a postgraduate degree in **Data Science and Artificial Intelligence** at [Instituto Mauá de Tecnologia](https://www.maua.br/).
-- 🚀 Junior Software Engineer at **Indigo Hive**, focusing on full-stack development and AI-driven applications.
+- 🚀 Mid Level Software Engineer at **Indigo Hive**, focusing on full-stack development and AI-driven applications.
 
 ## 💻 Technical Skills
 
